@@ -1,0 +1,5 @@
+.cardValidator {
+  max-width: 300px;
+  display: grid;
+  gap: 10px;
+}
